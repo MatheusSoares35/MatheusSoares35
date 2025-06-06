@@ -1,12 +1,4 @@
-<h1>Matheus Santos Soares</h1>
-<h4>Desenvolvedor front end com 1 ano e meio de faculdade</h4>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusSoares35&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSoares35&layout=compact&langs_count=16&theme=dracula"/>
-  
-</div>
-<div>
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus
 ===============================================================================================================================
 
 Here is some of my informations:
@@ -33,4 +25,3 @@ After several years learning about application development, from requirements an
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-</div>
