@@ -1,17 +1,5 @@
-Hello! My name is Matheus
-=
-Here is some of my informations:
--
-
-After several years learning about application development, from requirements and planning to quality test management, I now want to gain professional experience and be part of a team. Make a difference and bring positive results to the company.
-
-*   🌍  I'm based in east zone of São Paulo - Brasil
-*   ✉️  You can contact me at [matheus.busyness0035@gmail.com](mailto:matheus.busyness0035@gmail.com)
-*   🧠  I'm learning python / sqlite / git / project management / database
-*   ⚡  I like to learn another languages beyond the English, like Russian.
-
-
-
-<h2> Skills </h2>
-
-
+# Hello World! My name is Matheus Santos  
+_Here somethings to know about me:_  
+"I study at Uninove University, majoring in Systems Analysis and Development. Since my first day there, I’ve been exposed to various software technologies, which sparked my interest in learning more about the world of application development and what happens behind an application's interface. I’ve always been passionate about making a difference through lines of code, and now I believe I have the knowledge to begin my career.
+## Here some informatios about me:
+- phyton
