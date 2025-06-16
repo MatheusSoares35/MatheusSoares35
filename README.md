@@ -1,8 +1,14 @@
 # Hello World! My name is Matheus Santos  
 _Here somethings to know about me:_  
-"I study at Uninove University, majoring in Systems Analysis and Development. Since my first day there, I’ve been exposed to various software technologies, which sparked my interest in learning more about the world of application development and what happens behind an application's interface. I’ve always been passionate about making a difference through lines of code, and now I believe I have the knowledge to begin my career.
+<!--![](https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000)
+-->
+<!--![](https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000)
+-->
+![](https://img.icons8.com/?size=100&id=yAk24Bd8TOKS&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000)
 ## Here some informatios about me:
- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/MatheusSantos35/github-readme-stats.svg" />
-</a>
-- phyton
+![MatheusSoares35's Stats](https://github-readme-stats.vercel.app/api?username=MatheusSoares35&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![MatheusSoares35's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSoares35&theme=algolia&show_icons=true&hide_border=true&layout=compact)
